@@ -1,0 +1,6 @@
+{
+  "name": "LeadFit AI",
+  "description": "AI-powered B2B Lead Finder and ICP qualification platform for real-world prospect research and CSV filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
